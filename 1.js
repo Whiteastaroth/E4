@@ -6,6 +6,7 @@ const game = {
 }
 
 function company()   {
+    
     for (let key in game) {
         if (game.hasOwnProperty(key)) {
             console.log(key, game[key]);
