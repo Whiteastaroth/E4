@@ -1,11 +1,3 @@
-//function Electricaldevice (name, connect, power){
-//  this.name = name;
-
-//  this.connect = connect;
-
-//  this.power = power;
-//}
-
 function  Electricaldevices(name, power, ){
   this.name = name
   this.power = power
